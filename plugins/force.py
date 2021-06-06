@@ -61,7 +61,7 @@ async def text(bot, update):
                 ],
                 [
                     InlineKeyboardButton('Other Bots', url='https://t.me/mxPublicFilesBot'),
-                    InlineKeyboardButton('Owner', url='https://t.me/AnnihilusOP)
+                    InlineKeyboardButton('Source Codes', url='https://github.com/saikatsingh/FileRenameBot')
                 ]
             ]
         ),
